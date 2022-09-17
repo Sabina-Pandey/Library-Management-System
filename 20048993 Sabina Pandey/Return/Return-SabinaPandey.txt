@@ -1,0 +1,24 @@
+			 Library Management System 
+			 Returned By: SabinaPandey
+
+			 Date: 2021-09-08 16:17:41.485692
+
+S.N.		 Bookname			 Cost
+1		Harry Potter			 $2
+					  Fine:  $0.0
+					  Total: $2.0
+ ----------------------------------------------------------------- 
+			 Date: 2021-09-08 16:25:36.259252
+
+S.N.		 Bookname			 Cost
+1		Harry Potter			 $2
+					Fine: $0.0					Total: $2.0
+ ----------------------------------------------------------------- 
+			 Date: 2021-09-11 09:25:21.050047
+
+S.N.		 Bookname			 Cost
+1		Harry Potter			 $2
+2		Start With Why			 $1.5
+					Fine: $0.0
+					Total: $3.5
+ ----------------------------------------------------------------- 
